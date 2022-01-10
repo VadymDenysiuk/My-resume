@@ -7,7 +7,7 @@ body {
 .main-section {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: auto;
   background-color: #fff;
   margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
@@ -49,7 +49,7 @@ body {
 }
 
 .about-me-description {
-  width: 600px;
+  width: auto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
