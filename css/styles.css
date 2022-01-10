@@ -2,7 +2,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
-  height: auto;
+  height:100%;
 }
 .project-description {margin:0;}
 .main-section {
@@ -10,8 +10,9 @@ body {
   flex-direction: row-reverse;
   width: auto;
   background-color: #fff;
-  margin: 40px auto;
+  margin: 0 auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  min-height: 100%;
 }
 
 /* main content section */
