@@ -2,6 +2,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
+  height: auto;
 }
 .project-description {margin:0;}
 .main-section {
